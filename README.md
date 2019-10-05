@@ -10,7 +10,7 @@ Todo Restful API with postgres database.
 
 ## Running the application
 - Spin up the application using `dotnet run`
-- The app lives in `localhost:5001`.
+- The app UI lives in `localhost:5001`.
 
 ## Adding migrations
 - If the postgresql database is setup:
@@ -35,6 +35,7 @@ Use this postman collection to test the API. You will have to turn off SSL certi
 - This article by [@agavatar on Medium.](https://medium.com/@agavatar/webapi-with-net-core-and-postgres-in-visual-studio-code-8b3587d12823)
 - This article by [@kieran on Medium](https://medium.com/@kieran.gillibrand/creating-a-net-core-rest-api-part-1-setup-and-database-modelling-47bccf8d5685) is more in-depth.
 - [Bonus article.](https://intellitect.com/docker-postgresql/)
+- [Front-end article for Todo API.](https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-3.0)
 
 ## Author
 Sylvance Kerandi
