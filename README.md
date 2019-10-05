@@ -27,10 +27,14 @@ Todo Restful API with postgres database.
 | DELETE todo | `/api/todo/{id}` | delete a todo item  |
 
 ## Postman collection
-Use this postman collection to test the API.
+Use this postman collection to test the API. You will have to turn off SSL certificate verification in Postman settings.
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/d0ccf2c7759a9449a000)
 
 ## Acknowledgements
 - This article by [@agavatar on Medium.](https://medium.com/@agavatar/webapi-with-net-core-and-postgres-in-visual-studio-code-8b3587d12823)
+- This article by [@kieran on Medium](https://medium.com/@kieran.gillibrand/creating-a-net-core-rest-api-part-1-setup-and-database-modelling-47bccf8d5685) is more in-depth.
+- [Bonus article.](https://intellitect.com/docker-postgresql/)
 
 ## Author
 Sylvance Kerandi
